@@ -5,11 +5,8 @@
 npm i
 ```
 
-### Compiles and hot-reloads for development
+### Install
 ```
-npm serve
+npm install antd
+npm install react-router-dom
 ```
-
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
